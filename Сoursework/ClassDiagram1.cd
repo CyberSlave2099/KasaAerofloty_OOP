@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Сoursework.Ticket">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAIAAAAgEBAAACAAAAAAABCIAAAAAAA=</HashCode>
+      <FileName>Classes\Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сoursework.Classes.TicketsList">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAQACAAAAAAIAAAAAAIAEIAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\TicketsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
